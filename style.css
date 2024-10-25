@@ -1,11 +1,13 @@
 @font-face {
     font-family: gilroy;
-    src: url(Gilroy-Medium.ttf);
+    src: url(Gilroy-Medium.woff);
 }
 @font-face {
     font-family: tung;
     src: url(Tungsten-Bold_Web.woff2);
 }
+
+
 
 *{
     margin: 0;
